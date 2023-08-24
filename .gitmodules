@@ -1,0 +1,3 @@
+[submodule "mentodb"]
+	path = mentodb
+	url = https://github.com/fswair/mentodb
